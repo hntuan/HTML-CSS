@@ -1,0 +1,21 @@
+:root{
+    --primary-color:#EE4D2D;
+    --white-color:#fff;
+    --black-color:#000;
+    --background-color: #00483d;
+    --width-search: 350px;
+    --width-header: 1200px;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 80%;
+    line-height: 1.4rem;
+    font-family: "Times New Roman", Times, serif;
+    box-sizing: border-box;
+}
+
+
